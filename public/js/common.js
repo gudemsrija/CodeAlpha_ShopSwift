@@ -155,11 +155,11 @@
       </div>
       <header class="site-header">
         <div class="container header-inner">
-          <a class="brand" href="/" aria-label="CodeAlpha Supply Co. home">
-            <span class="brand-mark">CA</span>
+          <a class="brand" href="/" aria-label="ShopSwift home">
+            <span class="brand-mark">SS</span>
             <span class="brand-copy">
-              <strong>CodeAlpha</strong>
-              <small>Supply Co.</small>
+              <strong>ShopSwift</strong>
+              <small>Everyday goods</small>
             </span>
           </a>
           <nav class="main-nav" aria-label="Main navigation">

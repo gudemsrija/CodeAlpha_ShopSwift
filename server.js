@@ -578,7 +578,7 @@ app.use((err, req, res, next) => {
 
 const server = app.listen(PORT, () => {
   console.log('');
-  console.log('  CodeAlpha Store is running');
+  console.log('  ShopSwift is running');
   console.log(`  Local:  http://localhost:${PORT}`);
   console.log(`  Database: ${dbPath}`);
   console.log('');

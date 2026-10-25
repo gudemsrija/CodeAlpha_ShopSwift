@@ -1,6 +1,6 @@
 @echo off
 setlocal
-title CodeAlpha Store Launcher
+title ShopSwift Launcher
 cd /d "%~dp0"
 
 where node >nul 2>nul
@@ -27,10 +27,10 @@ if not exist "node_modules\express\package.json" (
 )
 
 echo.
-echo  Starting CodeAlpha Store...
+echo  Starting ShopSwift...
 echo  The store will open in your browser automatically.
 echo.
 
-start "CodeAlpha Store Server" cmd /k node server.js
+start "ShopSwift Server" cmd /k node server.js
 timeout /t 2 >nul
 exit /b 0
